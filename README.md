@@ -1,18 +1,14 @@
-[TOC]
+## Typical CNN-Models Evolution since LeNet
 
+![CNNEvolution](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/images/CNNEvolution.jpg)
 
+## Model Size & Accuracy Benchmark
 
-### Model Size & Accuracy Benchmark
-
-![**ModelSize&AccuracySummary**](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/ModelSize%26AccuracySummary.jpg)
-
-
-
-
+![ModelSize&AccuracySummary](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/ModelSize%26AccuracySummary.jpg)
 
 
 ---
-### Contact & Feedback
+## Contact & Feedback
 If you have any question or suggestion, please feel free to tell me:
 - Github: @mikelu-shanghai
 - E-mail: 2281514845@qq.com
