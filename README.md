@@ -2,6 +2,8 @@
 
 ![CNNEvolution](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/images/CNNEvolution.jpg)
 
+**Summary of Object Detection** *See* [here](https://github.com/mikelu-shanghai/ObjectDetection-SummaryNotes)
+
 ## Model Size & Accuracy Benchmark
 
 ![ModelSize&AccuracySummary](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/ModelSize%26AccuracySummary.jpg)
