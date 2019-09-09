@@ -8,7 +8,7 @@
 
 ![ModelSize&AccuracySummary](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/ModelSize%26AccuracySummary.jpg)
 
-- Typical CNNs for Generic Object Detection
+- **Typical CNNs for Generic Object Detection**
 ![DCNNforGenericObjectDetection](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/DCNN%20architectures%20that%20were%20commonly%20used%20for%20generic%20object%20detection.png)
 
 ---
