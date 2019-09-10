@@ -6,7 +6,7 @@
 
 ## Model Size & Accuracy Benchmark
 
-- **Intuitive visualization （previously）**
+- **Intuitive visualization (previously)**
 ![ModelSize&AccuracySummary](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/ModelSize%26AccuracySummary.jpg)
 
 - **Milestone CNNs for Generic Object Detection (state-of-the-art)**
