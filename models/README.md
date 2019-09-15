@@ -13,4 +13,7 @@
 - mxnet [[srclink](https://github.com/rayleizhu/Alexnet-cntk-and-mxnet/tree/master/mxnet-exp)]
 
 ## VGG
+- caffe [[VGG-16](https://gist.github.com/ksimonyan/211839e770f7b538e2d8)] [[VGG-19](https://gist.github.com/ksimonyan/3785162f95cd2d5fee77)]
+- tensorflow [[srclink](https://github.com/machrisaa/tensorflow-vgg)]
+- 
 
