@@ -18,3 +18,5 @@
 - pytorch [[srclink](https://github.com/jcjohnson/pytorch-vgg)]
 - mxnet [[srclink](https://github.com/wkcn/vgg-mx)]
 
+## GoogLeNet/Inception Series
+
