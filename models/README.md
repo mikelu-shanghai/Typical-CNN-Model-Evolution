@@ -26,9 +26,11 @@
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
 - caffe [[srclink](https://github.com/soeaver/caffe-model)]
 
+## ResNeXt
+- torch/pytorch/caffe/mxnet [[original](https://github.com/facebookresearch/ResNeXt)]
+
 ## DenseNet
 - caffe/tensorflow/pytorch/mxnet/keras/theano [[original](https://github.com/liuzhuang13/DenseNet)]
-
 
 ## MobileNet
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
