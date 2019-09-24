@@ -19,9 +19,12 @@
 - mxnet [[srclink](https://github.com/wkcn/vgg-mx)]
 
 ## GoogLeNet/Inception Series
+- tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/inception)] [[srclink](https://github.com/tensorflow/models/tree/master/research/slim)]
 
 
 ## ResNet
+- tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
+
 
 
 
