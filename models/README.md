@@ -20,10 +20,11 @@
 
 ## GoogLeNet/Inception Series
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/inception)] [[srclink](https://github.com/tensorflow/models/tree/master/research/slim)]
-
+- caffe [[srclink](https://github.com/soeaver/caffe-model)]
 
 ## ResNet
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
+- caffe [[srclink](https://github.com/soeaver/caffe-model)]
 
 
 ## MobileNet
