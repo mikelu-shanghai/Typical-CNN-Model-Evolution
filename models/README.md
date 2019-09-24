@@ -14,7 +14,7 @@
 
 ## VGG
 - caffe [[VGG-16](https://gist.github.com/ksimonyan/211839e770f7b538e2d8)] [[VGG-19](https://gist.github.com/ksimonyan/3785162f95cd2d5fee77)]
-- tensorflow [[srclink1](https://github.com/machrisaa/tensorflow-vgg)] [[srclink2](https://github.com/huyng/tensorflow-vgg)]
+- tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)] [[srclink1](https://github.com/machrisaa/tensorflow-vgg)] [[srclink2](https://github.com/huyng/tensorflow-vgg)]
 - pytorch [[srclink](https://github.com/jcjohnson/pytorch-vgg)]
 - mxnet [[srclink](https://github.com/wkcn/vgg-mx)]
 
