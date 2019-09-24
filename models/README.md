@@ -26,5 +26,12 @@
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
 
 
+## MobileNet
+- tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
+
+## NASNet
+- tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
+
+
 
 
