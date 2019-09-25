@@ -46,6 +46,6 @@
 - tensorflow [[link](https://github.com/tensorflow/models/tree/master/research/slim)]
 - pytorch [[link](https://github.com/Cadene/pretrained-models.pytorch)]
 - caffe [[link](https://github.com/soeaver/caffe-model)]
-
+- keras [[link](https://github.com/fchollet/deep-learning-models)]
 
 
