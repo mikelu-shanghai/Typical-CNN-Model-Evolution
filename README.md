@@ -2,9 +2,9 @@
 
 ![CNNEvolution](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/images/CNNEvolution.jpg)
 
-**NOTE: Summary of Object Detection** *See* [here](https://github.com/mikelu-shanghai/ObjectDetection-SummaryNotes)
+## **Summary of Object Detection** *See* [here](https://github.com/mikelu-shanghai/ObjectDetection-SummaryNotes)
 
-**Models & Code** *See* [HERE](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/tree/master/models)
+## **Models & Code** *See* [HERE](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/tree/master/models)
 
 ## Model Size & Accuracy Benchmark
 
@@ -14,8 +14,8 @@
 - **Milestone CNNs for Generic Object Detection (state-of-the-art)**
 ![DCNNforGenericObjectDetection](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/DCNN%20architectures%20that%20were%20commonly%20used%20for%20generic%20object%20detection.png)
 
-### NOTICE:
-- All rights of the cited materials in the repository belongs to the original authors or contributors.
+### *NOTICE:*
+- *All rights of the cited materials in the repository belongs to the original authors or contributors.*
 
 ---
 ## Contact & Feedback
