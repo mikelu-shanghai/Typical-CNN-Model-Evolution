@@ -47,6 +47,5 @@
 - pytorch [[link](https://github.com/Cadene/pretrained-models.pytorch)]
 - caffe [[link](https://github.com/soeaver/caffe-model)]
 
-### NOTICE:
-All rights of the cited materials in the repository belongs to the original authors or contributors.
+
 
