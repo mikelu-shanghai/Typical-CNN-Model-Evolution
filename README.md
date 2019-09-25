@@ -14,6 +14,9 @@
 - **Milestone CNNs for Generic Object Detection (state-of-the-art)**
 ![DCNNforGenericObjectDetection](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/DCNN%20architectures%20that%20were%20commonly%20used%20for%20generic%20object%20detection.png)
 
+### NOTICE:
+- All rights of the cited materials in the repository belongs to the original authors or contributors.
+
 ---
 ## Contact & Feedback
 If you have any question or suggestion, please feel free to tell me:
