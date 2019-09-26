@@ -42,10 +42,16 @@
 - pytorch [[original](https://github.com/Cadene/pretrained-models.pytorch)]
 
 ---
-## REFERENCE: Pretrained models zoo
+## REFERENCE
+### Pretrained models zoo
 - tensorflow [[link](https://github.com/tensorflow/models/tree/master/research/slim)]
 - pytorch [[link](https://github.com/Cadene/pretrained-models.pytorch)]
 - caffe [[link](https://github.com/soeaver/caffe-model)]
 - keras [[link](https://github.com/fchollet/deep-learning-models)]
+
+### Environment settings
+- [Windows10](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/models/envsettings/tf-gpu_windows10.yml)
+- [Ubuntu16.04]()
+
 
 
