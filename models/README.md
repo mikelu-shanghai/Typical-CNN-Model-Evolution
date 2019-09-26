@@ -50,8 +50,8 @@
 - keras [[link](https://github.com/fchollet/deep-learning-models)]
 
 ### Environment settings
-- [Windows10](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/models/envsettings/tf-gpu_windows10.yml)
-- [Ubuntu16.04]()
+- [Windows10-tf](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/models/envsettings/tf-gpu_windows10.yml)
+- [Ubuntu16.04-tf](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/models/envsettings/tf-gpu_ubuntu16.04.yml)
 
 
 
