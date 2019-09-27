@@ -34,6 +34,9 @@
 ## DenseNet
 - caffe/tensorflow/pytorch/mxnet/keras/theano [[original](https://github.com/liuzhuang13/DenseNet)]
 
+## SENet
+-  caffe/tensorflow/pytorch/mxnet/etc. [[original](https://github.com/hujie-frank/SENet)]
+
 ## MobileNet
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
 
