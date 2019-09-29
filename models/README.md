@@ -40,6 +40,11 @@
 ## MobileNet
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
 
+## Xception
+- tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)] [[srclink](https://github.com/kwotsin/TensorFlow-Xception)]
+- keras [[original](https://keras.io/applications/#xception)]
+- pytorch [[original](https://github.com/Cadene/pretrained-models.pytorch)]
+
 ## NASNet
 - tensorflow [[original](https://github.com/tensorflow/models/tree/master/research/slim)]
 - pytorch [[original](https://github.com/Cadene/pretrained-models.pytorch)]
