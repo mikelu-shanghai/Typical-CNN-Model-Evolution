@@ -55,7 +55,7 @@
 - tensorflow [[link](https://github.com/tensorflow/models/tree/master/research/slim)]
 - pytorch [[link](https://github.com/Cadene/pretrained-models.pytorch)]
 - caffe [[link](https://github.com/soeaver/caffe-model)]
-- keras [[link](https://github.com/fchollet/deep-learning-models)]
+- keras [[link](https://github.com/fchollet/deep-learning-models)] [[link2](https://github.com/keras-team/keras/tree/master/keras/applications)]
 
 ### Environment settings
 - [Windows10-tf](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/models/envsettings/tf-gpu_windows10.yml)
