@@ -15,6 +15,7 @@
 - **Milestone CNNs for Generic Object Detection (state-of-the-art)**
 ![DCNNforGenericObjectDetection](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/DCNN%20architectures%20that%20were%20commonly%20used%20for%20generic%20object%20detection.png)
 
+- **Some Popular CNNs Benchmark by keras [link](https://keras-cn.readthedocs.io/)**
 | 模型             | 大小  | Top1准确率 | Top5准确率 |    参数数目 | 深度 |
 | :--------------- | :---: | :--------: | :--------: | ----------: | :--: |
 | Xception         | 88MB  |   0.790    |   0.945    |  22,910,480 | 126  |
