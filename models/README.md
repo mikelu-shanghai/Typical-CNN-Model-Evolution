@@ -51,7 +51,7 @@
 
 ---
 ## REFERENCE
-### Pretrained models zoo
+### Pretrained model zoo
 - tensorflow [[link](https://github.com/tensorflow/models/tree/master/research/slim)]
 - pytorch [[link](https://github.com/Cadene/pretrained-models.pytorch)]
 - caffe [[link](https://github.com/soeaver/caffe-model)]
