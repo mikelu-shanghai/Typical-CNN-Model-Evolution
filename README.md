@@ -12,7 +12,7 @@
 - **Intuitive visualization (previously)**
 ![ModelSize&AccuracySummary](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/ModelSize%26AccuracySummary.jpg)
 
-- **Some LightWeight CNNs Benchmark**
+- **Some LightWeight CNNs Benchmark**[[link](https://zhuanlan.zhihu.com/p/37074222)]
 ![LightWeightConvNets_Benchmark1](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/blob/master/Benchmarks/LightWeightConvNets_Benchmark1.jpg)
 
 
