@@ -17,7 +17,7 @@
 
 - **Some Popular CNNs Benchmark by keras [[link](https://keras-cn.readthedocs.io/)]**
 
-| Model Achitecture | Size  | Top1 Accuracy | Top5 Accuracy | Parameter  Numbers | Depth | Input Size (ImageNet/Min.) |
+| Model Achitecture | Size  | Top1 Accuracy | Top5 Accuracy | Parameter  Numbers | Depth | Input Size (Default/Min.) |
 | :---------------- | :---: | :-----------: | :-----------: | -----------------: | :---: | :------------------------: |
 | Xception          | 88MB  |     0.790     |     0.945     |         22,910,480 |  126  |       229x229 / ≥71        |
 | VGG16             | 528MB |     0.715     |     0.901     |        138,357,544 |  23   |        224x224 / 32        |
